@@ -1,0 +1,25 @@
+[0.476s] Invoking command in '/home/maverick/upwork/diff_sim_ws/src/diff_robot/build/diff_robot': PYTHONPATH=/home/maverick/upwork/diff_sim_ws/src/diff_robot/install/diff_robot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/maverick/upwork/diff_sim_ws/src/diff_robot/install/diff_robot --editable --build-directory /home/maverick/upwork/diff_sim_ws/src/diff_robot/build/diff_robot/build --no-deps install_data --install-dir /home/maverick/upwork/diff_sim_ws/src/diff_robot/install/diff_robot
+[0.677s] running develop
+[0.860s] running egg_info
+[0.860s] creating diff_robot.egg-info
+[0.860s] writing diff_robot.egg-info/PKG-INFO
+[0.861s] writing dependency_links to diff_robot.egg-info/dependency_links.txt
+[0.861s] writing entry points to diff_robot.egg-info/entry_points.txt
+[0.861s] writing requirements to diff_robot.egg-info/requires.txt
+[0.861s] writing top-level names to diff_robot.egg-info/top_level.txt
+[0.861s] writing manifest file 'diff_robot.egg-info/SOURCES.txt'
+[0.890s] reading manifest file 'diff_robot.egg-info/SOURCES.txt'
+[0.891s] writing manifest file 'diff_robot.egg-info/SOURCES.txt'
+[0.893s] running build_ext
+[0.893s] Creating /home/maverick/upwork/diff_sim_ws/src/diff_robot/install/diff_robot/lib/python3.8/site-packages/site.py
+[0.895s] Creating /home/maverick/upwork/diff_sim_ws/src/diff_robot/install/diff_robot/lib/python3.8/site-packages/diff-robot.egg-link (link to .)
+[0.896s] Installing twist_pub script to /home/maverick/upwork/diff_sim_ws/src/diff_robot/install/diff_robot/lib/diff_robot
+[0.896s] 
+[0.896s] Installed /home/maverick/upwork/diff_sim_ws/src/diff_robot/build/diff_robot
+[0.896s] running install_data
+[0.896s] creating /home/maverick/upwork/diff_sim_ws/src/diff_robot/install/diff_robot/share/ament_index
+[0.896s] creating /home/maverick/upwork/diff_sim_ws/src/diff_robot/install/diff_robot/share/ament_index/resource_index
+[0.896s] creating /home/maverick/upwork/diff_sim_ws/src/diff_robot/install/diff_robot/share/ament_index/resource_index/packages
+[0.896s] copying resource/diff_robot -> /home/maverick/upwork/diff_sim_ws/src/diff_robot/install/diff_robot/share/ament_index/resource_index/packages
+[0.896s] copying package.xml -> /home/maverick/upwork/diff_sim_ws/src/diff_robot/install/diff_robot/share/diff_robot
+[0.918s] Invoked command in '/home/maverick/upwork/diff_sim_ws/src/diff_robot/build/diff_robot' returned '0': PYTHONPATH=/home/maverick/upwork/diff_sim_ws/src/diff_robot/install/diff_robot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/maverick/upwork/diff_sim_ws/src/diff_robot/install/diff_robot --editable --build-directory /home/maverick/upwork/diff_sim_ws/src/diff_robot/build/diff_robot/build --no-deps install_data --install-dir /home/maverick/upwork/diff_sim_ws/src/diff_robot/install/diff_robot

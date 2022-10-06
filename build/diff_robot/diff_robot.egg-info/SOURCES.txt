@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+diff_robot/__init__.py
+diff_robot/twist_pub.py
+diff_robot.egg-info/PKG-INFO
+diff_robot.egg-info/SOURCES.txt
+diff_robot.egg-info/dependency_links.txt
+diff_robot.egg-info/entry_points.txt
+diff_robot.egg-info/requires.txt
+diff_robot.egg-info/top_level.txt
+diff_robot.egg-info/zip-safe
+resource/diff_robot

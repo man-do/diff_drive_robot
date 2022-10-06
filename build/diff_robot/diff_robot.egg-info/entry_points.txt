@@ -1,0 +1,3 @@
+[console_scripts]
+twist_pub = diff_robot.twist_pub:main
+
